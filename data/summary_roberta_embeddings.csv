@@ -1,0 +1,10 @@
+Base,Modelo,Representação,Accuracy,Precision,Recall,F1-Regra,F1-NRegra,F1-Macro
+Parquet,Logistic Regression,RoBERTa-large (ACCORD),0.8862,0.8421,0.8996,0.8699,0.8989,0.8844
+Parquet,Random Forest,RoBERTa-large (ACCORD),0.871,0.8811,0.8032,0.8403,0.8917,0.866
+Parquet,SVM,RoBERTa-large (ACCORD),0.8625,0.8231,0.8594,0.8409,0.8789,0.8599
+ACCORD Official,Logistic Regression,RoBERTa-large (ACCORD),0.8865,0.8385,0.8333,0.8359,0.9133,0.8746
+ACCORD Official,Random Forest,RoBERTa-large (ACCORD),0.8158,0.9318,0.5062,0.656,0.8743,0.7651
+ACCORD Official,SVM,RoBERTa-large (ACCORD),0.8608,0.8129,0.7778,0.795,0.8947,0.8448
+Base Construída,Logistic Regression,RoBERTa-large (ACCORD),0.8899,0.8685,0.8862,0.8773,0.9002,0.8887
+Base Construída,Random Forest,RoBERTa-large (ACCORD),0.8357,0.8507,0.7642,0.8051,0.858,0.8316
+Base Construída,SVM,RoBERTa-large (ACCORD),0.8664,0.8554,0.8415,0.8484,0.8806,0.8645

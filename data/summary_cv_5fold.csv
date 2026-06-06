@@ -1,0 +1,19 @@
+Base,Representação,Modelo,F1-Macro,F1-Macro Std,F1-Weighted,Accuracy
+Parquet,TF-IDF,Logistic Regression,0.8613,0.0087,0.8642,0.8637
+Parquet,TF-IDF,Random Forest,0.885,0.0109,0.8877,0.8875
+Parquet,TF-IDF,SVM,0.8671,0.0131,0.87,0.8695
+ACCORD Official,TF-IDF,Logistic Regression,0.8269,0.0167,0.8438,0.841
+ACCORD Official,TF-IDF,Random Forest,0.8428,0.0109,0.8622,0.8633
+ACCORD Official,TF-IDF,SVM,0.8359,0.0236,0.8518,0.8492
+Base Construída,TF-IDF,Logistic Regression,0.8652,0.0149,0.8675,0.867
+Base Construída,TF-IDF,Random Forest,0.8795,0.0104,0.8818,0.8815
+Base Construída,TF-IDF,SVM,0.8711,0.0155,0.8733,0.8728
+Parquet,TF-IDF + Features,Logistic Regression,0.8507,0.0088,0.8538,0.8532
+Parquet,TF-IDF + Features,Random Forest,0.8874,0.0105,0.8901,0.8899
+Parquet,TF-IDF + Features,SVM,0.8741,0.0154,0.8768,0.8763
+ACCORD Official,TF-IDF + Features,Logistic Regression,0.7983,0.021,0.8175,0.8141
+ACCORD Official,TF-IDF + Features,Random Forest,0.852,0.0074,0.8699,0.8706
+ACCORD Official,TF-IDF + Features,SVM,0.8374,0.0208,0.8534,0.8509
+Base Construída,TF-IDF + Features,Logistic Regression,0.8506,0.0163,0.8531,0.8526
+Base Construída,TF-IDF + Features,Random Forest,0.8829,0.0148,0.885,0.8847
+Base Construída,TF-IDF + Features,SVM,0.8678,0.0173,0.8701,0.8696
